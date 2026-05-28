@@ -12,7 +12,7 @@ Menu interativo no terminal
 Sistema simples e intuitivo
 
 <p align="center">
-  <img src="link-da-imagem" width="300">
+  <img src=https://github.com/matheusaribeirodev/Cadastro-de-Pessoas.Py/blob/main/Sem%20t%C3%ADtulo.png
 </p>
 
 💻 Tecnologias utilizadas
