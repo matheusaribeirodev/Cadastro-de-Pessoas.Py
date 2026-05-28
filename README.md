@@ -16,6 +16,7 @@ Sistema simples e intuitivo
 </p>
 
 💻 Tecnologias utilizadas
+
 Python
 VS Code
 
